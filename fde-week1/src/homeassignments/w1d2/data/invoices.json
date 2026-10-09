@@ -1,0 +1,32 @@
+[
+    {
+        "invoice_id": "IN001",
+        "vendor": "K1",
+        "amount": 100,
+        "status": "PENDING"
+    },
+    {
+        "invoice_id": "IN002",
+        "vendor": "K2",
+        "amount": 200,
+        "status": "PENDING"
+    },
+    {
+        "invoice_id": "IN003",
+        "vendor": "K3",
+        "amount": 300,
+        "status": "PENDING"
+    },
+    {
+        "invoice_id": "IN004",
+        "vendor": "K4",
+        "amount": 400,
+        "status": "PENDING"
+    },
+    {
+        "invoice_id": "IN005",
+        "vendor": "K5",
+        "amount": 0,
+        "status": "PENDING"
+    }
+]
